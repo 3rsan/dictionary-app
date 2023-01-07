@@ -1,0 +1,13 @@
+.container {
+  text-align: center;
+}
+.search {
+  border: 1px solid grey;
+  width: 100px;
+  height: 20px;
+}
+.searcButton {
+  padding: 0 !important;
+  width: 40px;
+  align-items: center;
+}
